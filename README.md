@@ -8,7 +8,7 @@
 
 ## Overview
 
-Agent-Launched Microservices Factory. Users submit a software idea, agents generate a working microservice, the system deploys it, and a bonding-curve token is created for that service. Holding the token grants access to the service API.
+Microservices Factory. Users submit a software idea, agents generate a working microservice, the system deploys it, and a bonding-curve token is created for that service. Holding the token grants access to the service API.
 
 ## Quick Start
 
@@ -189,7 +189,7 @@ curl http://localhost:8000/stats
 
 ### Test Frontend
 1. Open http://localhost:3000
-2. Check "Connected to backend API" status appears
+2. Check "Connected to API" status appears
 3. Enter wallet: `0x1234567890123456789012345678901234567890`
 4. Submit idea: "Test service"
 5. Click Refresh - service should appear

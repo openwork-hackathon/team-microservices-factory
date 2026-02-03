@@ -21,7 +21,7 @@ Expected:
 
 Open http://localhost:3000 and verify:
 - [ ] Page loads without errors
-- [ ] "Agent-Launched Microservices Factory" title visible
+- [ ] "Microservices Factory" title visible
 - [ ] Wallet Connection panel visible
 - [ ] Submit Idea panel visible
 - [ ] Services panel visible
@@ -29,7 +29,7 @@ Open http://localhost:3000 and verify:
 ### 3. API Status Check
 
 On the frontend, verify:
-- [ ] "Connected to backend API" message appears (green)
+- [ ] "Connected to API" message appears (green)
 - OR
 - [ ] "Backend API unavailable" message with retry button (red)
 
@@ -268,7 +268,7 @@ forge test --gas-report
 curl -s https://team-microservices-factory-gamma.vercel.app | head -20
 ```
 
-Verify: HTML response with "Agent-Launched Microservices Factory"
+Verify: HTML response with "Microservices Factory"
 
 ### Backend (when deployed)
 

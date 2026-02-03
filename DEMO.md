@@ -21,7 +21,7 @@ Before the demo:
 > "This is the Microservices Factory - a platform where you describe what you want, and AI agents build and deploy it for you. Each service gets its own token, and holding the token grants API access."
 
 **Show:**
-- Landing page with title "Agent-Launched Microservices Factory"
+- Landing page with title "Microservices Factory"
 - Explain the three main sections: Wallet, Submit Idea, Services
 
 ---
